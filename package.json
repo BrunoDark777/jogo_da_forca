@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "jogo_da_forca",
+  "version": "1.0.0",
+  "description": "Jogo da forca feito com JavaScript. Esse projeto esta dividido em módulos para facil manutenção e para ter uma aparencia mais proficional, o projeto também conta com o input  readline - sync para interação do usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
